@@ -1,0 +1,4 @@
+5;Estacionamiento SAP;15;15;280;
+6;Estacionamiento UAP;10;10;550;
+7;Salty Springs;8;5;300;
+8;Golden Wind;9;7;440;
